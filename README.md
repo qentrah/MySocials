@@ -248,3 +248,7 @@ This project is licensed under the MIT License - see the [LICENCE.md](LICENCE.md
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/r2hu1/mysocials)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mysocials)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mysocials)
+
+## Project links
+
+[Source](https://github.com/qentrah/MySocials) · [Issues](https://github.com/qentrah/MySocials/issues) · [Public project directory](https://github.com/qentrah/.github/blob/main/profile/PROJECTS.md)
